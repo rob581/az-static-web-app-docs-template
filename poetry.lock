@@ -330,7 +330,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "mkdocs"
-version = "1.2.3"
+version = "1.2.4"
 description = "Project documentation with Markdown."
 category = "main"
 optional = false
@@ -810,7 +810,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.7.1,<3.9"
-content-hash = "49cb7e73202fcef4b48c0faa5c5ad97b0af36e0b9d7b2b9c5c5dd4060d63ed87"
+content-hash = "ec9be0603e3407b8dd78368981199da7b4779df7189c60feaed330ab59ae67cb"
 
 [metadata.files]
 alabaster = [
@@ -984,8 +984,8 @@ mergedeep = [
     {file = "mergedeep-1.3.4.tar.gz", hash = "sha256:0096d52e9dad9939c3d975a774666af186eda617e6ca84df4c94dec30004f2a8"},
 ]
 mkdocs = [
-    {file = "mkdocs-1.2.3-py3-none-any.whl", hash = "sha256:a1fa8c2d0c1305d7fc2b9d9f607c71778572a8b110fb26642aa00296c9e6d072"},
-    {file = "mkdocs-1.2.3.tar.gz", hash = "sha256:89f5a094764381cda656af4298727c9f53dc3e602983087e1fe96ea1df24f4c1"},
+    {file = "mkdocs-1.2.4-py3-none-any.whl", hash = "sha256:f108e7ab5a7ed3e30826dbf82f37638f0d90d11161644616cc4f01a1e2ab3940"},
+    {file = "mkdocs-1.2.4.tar.gz", hash = "sha256:8e7970a26183487fe2a1041940c6fd03aa0dbe5549e50c3e7194f565cb3c678a"},
 ]
 mkdocs-git-revision-date-plugin = [
     {file = "mkdocs_git_revision_date_plugin-0.3.2-py3-none-any.whl", hash = "sha256:2e67956cb01823dd2418e2833f3623dee8604cdf223bddd005fe36226a56f6ef"},
